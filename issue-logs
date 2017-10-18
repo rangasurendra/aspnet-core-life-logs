@@ -1,0 +1,14 @@
+OS version: WIndows 10 Version 1703 (build: 15063.0)
+Visual Studio version: Visual Studio Enterprise 2017 (15.3.1)
+Framwork Vesion: .Net Framwork 4.7
+Asp.Net Core version: 2.0
+
+Issue #
+
+Project build issue encountered after upgrading Visual Studio 2017 (15.3.3).
+
+Description #
+
+Once Visual Studio was successfully updated, project build errors were shown. It was asked to update .NET Core 2.0 standard library to the latest version from https://www.microsoft.com/net/download/core.
+
+Resolution #
